@@ -1,13 +1,13 @@
 {
   "heading": "Vandforbrug i EU i 2020",
-  "subheading": "Samlet brug af fersk overfladevand i EU-landene målt i millioner kubikmeter",
-  "legend1": "Ingen tilgængelig data",
+  "subheading": "Samlet forbrug af fersk overfladevand i EU-landene målt i millioner kubikmeter",
+  "legend1": "Ingen data tilgængelige",
   "tooltip1": "millioner kubikmeter",
   "textSourceDescription": "Kilde",
   "textSource": "Eurostat",
-  "textNoteDescription": "Bemærk",
-  "textNote": "Seneste tilgængelige data for Tyskland, Ungarn og Portugal er fra 2017. Seneste tilgængelige data for Belgien og Tyskland er fra 2018.",
-  "textDataAccess": "Få adgang til data",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ten00006/default/table?lang=da",
-  "textCountryClick": "Klik for mere info"
+  "textNoteDescription": "Note",
+  "textNote": "De senest tilgængelige data for Tyskland, Ungarn og Portugal er fra 2017. De senest tilgængelige data for Belgien og Tyskland er fra 2018.",
+  "textDataAccess": "Få adgang til dataene",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ten00006/default/table?lang=en",
+  "textCountryClick": "Klik for mere information"
 }

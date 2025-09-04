@@ -1,13 +1,13 @@
 {
   "heading": "Ūdens patēriņš ES 2020. gadā",
-  "subheading": "Kopējais saldūdens virszemes ūdens patēriņš ES valstīs, mērīts miljonos kubikmetru",
-  "legend1": "Nav pieejami dati",
-  "tooltip1": "miljoni kubikmetru",
+  "subheading": "Kopējais saldūdens patēriņš ES valstīs, mērīts miljonos kubikmetru",
+  "legend1": "Dati nav pieejami",
+  "tooltip1": "miljons kubikmetru",
   "textSourceDescription": "Avots",
   "textSource": "Eurostat",
   "textNoteDescription": "Piezīme",
-  "textNote": "Jaunākie pieejamie dati par Vāciju, Ungāriju un Portugāli ir no 2017. gada. Jaunākie pieejamie dati par Beļģiju un Vāciju ir no 2018. gada.",
+  "textNote": "Jaunākie pieejamie dati par Vāciju, Ungāriju un Portugāli ir no 2017. gada. Jaunākie pieejamie dati par Beļģiju un Vāciju ir no 2018. gada.",
   "textDataAccess": "Piekļūstiet datiem",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ten00006/default/table?lang=en",
-  "textCountryClick": "Noklikšķiniet, lai iegūtu vairāk informācijas"
+  "textCountryClick": "Noklikšķiniet, lai iegūtu plašāku informāciju"
 }

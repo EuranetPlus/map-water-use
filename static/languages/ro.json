@@ -1,13 +1,13 @@
 {
   "heading": "Consumul de apă în UE în 2020",
-  "subheading": "Consumul total de apă dulce de suprafață în țările UE, măsurat în milioane de metri cubi",
-  "legend1": "Nici o informatie disponibila",
+  "subheading": "Utilizarea totală a apei dulci de suprafață în țările UE, măsurată în milioane de metri cubi",
+  "legend1": "Nu sunt disponibile date",
   "tooltip1": "milioane de metri cubi",
   "textSourceDescription": "Sursă",
   "textSource": "Eurostat",
-  "textNoteDescription": "Notă",
+  "textNoteDescription": "Nota",
   "textNote": "Cele mai recente date disponibile pentru Germania, Ungaria și Portugalia sunt din 2017. Cele mai recente date disponibile pentru Belgia și Germania sunt din 2018.",
   "textDataAccess": "Accesați datele",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ten00006/default/table?lang=en",
-  "textCountryClick": "Click pentru mai multe informații"
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ten00006/default/table?lang=ro",
+  "textCountryClick": "Faceți clic pentru mai multe informații"
 }

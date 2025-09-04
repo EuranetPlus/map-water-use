@@ -1,13 +1,13 @@
 {
   "heading": "Il-konsum tal-ilma fl-UE fl-2020",
-  "subheading": "L-użu totali tal-ilma ħelu tal-wiċċ fil-pajjiżi tal-UE mkejjel f'miljun metru kubu",
-  "legend1": "Ebda data disponibbli",
+  "subheading": "Użu totali ta' ilma ħelu tal-wiċċ fil-pajjiżi tal-UE mkejjel f'miljuni ta' metri kubi",
+  "legend1": "L-ebda dejta disponibbli",
   "tooltip1": "miljun metru kubu",
   "textSourceDescription": "Sors",
-  "textSource": "Eurostat",
+  "textSource": "L-Eurostat",
   "textNoteDescription": "Nota",
   "textNote": "L-aħħar dejta disponibbli għall-Ġermanja, l-Ungerija u l-Portugall hija mill-2017. L-aħħar dejta disponibbli għall-Belġju u l-Ġermanja hija mill-2018.",
-  "textDataAccess": "Aċċessa għad-data",
+  "textDataAccess": "Aċċessa d-dejta",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ten00006/default/table?lang=en",
-  "textCountryClick": "Ikklikkja għal aktar informazzjoni"
+  "textCountryClick": "Ikklikkja għal aktar tagħrif"
 }

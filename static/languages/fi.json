@@ -1,13 +1,13 @@
 {
   "heading": "Vedenkulutus EU:ssa vuonna 2020",
-  "subheading": "Makean pintaveden kokonaiskäyttö EU-maissa miljoonina kuutiometreinä",
-  "legend1": "Tietoja ei ole saatavilla",
+  "subheading": "Makean pintaveden kokonaiskulutus EU-maissa mitattuna miljoonina kuutiometreinä",
+  "legend1": "Ei tietoja saatavilla",
   "tooltip1": "miljoonaa kuutiometriä",
   "textSourceDescription": "Lähde",
   "textSource": "Eurostat",
   "textNoteDescription": "Huomautus",
-  "textNote": "Uusimmat saatavilla olevat tiedot Saksasta, Unkarista ja Portugalista ovat vuodelta 2017. Uusimmat saatavilla olevat tiedot Belgiasta ja Saksasta ovat vuodelta 2018.",
+  "textNote": "Saksan, Unkarin ja Portugalin uusimmat saatavilla olevat tiedot ovat vuodelta 2017. Belgian ja Saksan uusimmat saatavilla olevat tiedot ovat vuodelta 2018.",
   "textDataAccess": "Käytä tietoja",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ten00006/default/table?lang=fi",
-  "textCountryClick": "Napsauta saadaksesi lisätietoja"
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ten00006/default/table?lang=en",
+  "textCountryClick": "Klikkaa saadaksesi lisätietoja"
 }

@@ -1,6 +1,6 @@
 {
   "heading": "Waterverbruik in de EU in 2020",
-  "subheading": "Totaal zoet oppervlaktewatergebruik in landen van de EU gemeten in miljoen kubieke meter",
+  "subheading": "Het totale gebruik van zoet oppervlaktewater in de EU-landen, gemeten in miljoen kubieke meter",
   "legend1": "Geen gegevens beschikbaar",
   "tooltip1": "miljoen kubieke meter",
   "textSourceDescription": "Bron",
@@ -9,5 +9,5 @@
   "textNote": "De meest recente beschikbare gegevens voor Duitsland, Hongarije en Portugal zijn van 2017. De meest recente beschikbare gegevens voor België en Duitsland zijn van 2018.",
   "textDataAccess": "Toegang tot de gegevens",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ten00006/default/table?lang=en",
-  "textCountryClick": "Klik voor meer info"
+  "textCountryClick": "Klik voor meer informatie"
 }

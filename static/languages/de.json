@@ -1,13 +1,13 @@
 {
   "heading": "Wasserverbrauch in der EU im Jahr 2020",
-  "subheading": "Gesamtverbrauch an frischem Oberflächenwasser in den Ländern der EU, gemessen in Millionen Kubikmetern",
+  "subheading": "Gesamtverbrauch an Süßwasseroberflächen in den Ländern der EU, gemessen in Millionen Kubikmetern",
   "legend1": "Keine Daten verfügbar",
   "tooltip1": "Millionen Kubikmeter",
   "textSourceDescription": "Quelle",
   "textSource": "Eurostat",
   "textNoteDescription": "Notiz",
-  "textNote": "Die neuesten verfügbaren Daten für Deutschland, Ungarn und Portugal stammen aus dem Jahr 2017. Die neuesten verfügbaren Daten für Belgien und Deutschland stammen aus dem Jahr 2018.",
-  "textDataAccess": "Greifen Sie auf die Daten zu",
+  "textNote": "Die aktuellsten verfügbaren Daten für Deutschland, Ungarn und Portugal stammen aus dem Jahr 2017. Die aktuellsten verfügbaren Daten für Belgien und Deutschland stammen aus dem Jahr 2018.",
+  "textDataAccess": "Zugriff auf die Daten",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ten00006/default/table?lang=en",
-  "textCountryClick": "Klicken Sie für weitere Informationen"
+  "textCountryClick": "Klicken Sie hier für weitere Informationen"
 }

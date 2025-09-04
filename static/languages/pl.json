@@ -1,13 +1,13 @@
 {
-  "heading": "Zużycie wody w UE w 2020 r",
-  "subheading": "Całkowite zużycie słodkich wód powierzchniowych w krajach UE mierzone w milionach metrów sześciennych",
+  "heading": "Zużycie wody w UE w 2020 r.",
+  "subheading": "Całkowite zużycie słodkiej wody powierzchniowej w krajach UE mierzone w milionach metrów sześciennych",
   "legend1": "Brak dostępnych danych",
   "tooltip1": "milionów metrów sześciennych",
   "textSourceDescription": "Źródło",
-  "textSource": "Eurostatu",
+  "textSource": "Eurostat",
   "textNoteDescription": "Notatka",
-  "textNote": "Najnowsze dostępne dane dotyczące Niemiec, Węgier i Portugalii pochodzą z 2017 r. Najnowsze dostępne dane dotyczące Belgii i Niemiec pochodzą z 2018 r.",
-  "textDataAccess": "Uzyskaj dostęp do danych",
+  "textNote": "Najnowsze dostępne dane dla Niemiec, Węgier i Portugalii pochodzą z 2017 r. Najnowsze dostępne dane dla Belgii i Niemiec pochodzą z 2018 r.",
+  "textDataAccess": "Dostęp do danych",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ten00006/default/table?lang=en",
   "textCountryClick": "Kliknij, aby uzyskać więcej informacji"
 }

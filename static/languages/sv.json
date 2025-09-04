@@ -1,13 +1,13 @@
 {
-  "heading": "Vattenförbrukningen i EU 2020",
-  "subheading": "Total användning av färskt ytvatten i EU:s länder mätt i miljoner kubikmeter",
-  "legend1": "Ingen data tillgänglig",
+  "heading": "Vattenförbrukning i EU år 2020",
+  "subheading": "Total användning av sötvatten i EU-länderna mätt i miljoner kubikmeter",
+  "legend1": "Inga data tillgängliga",
   "tooltip1": "miljoner kubikmeter",
   "textSourceDescription": "Källa",
   "textSource": "Eurostat",
   "textNoteDescription": "Notera",
-  "textNote": "Senaste tillgängliga data för Tyskland, Ungern och Portugal är från 2017. Senaste tillgängliga data för Belgien och Tyskland är från 2018.",
-  "textDataAccess": "Få åtkomst till data",
+  "textNote": "Senast tillgängliga uppgifter för Tyskland, Ungern och Portugal är från 2017. Senast tillgängliga uppgifter för Belgien och Tyskland är från 2018.",
+  "textDataAccess": "Åtkomst till data",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ten00006/default/table?lang=en",
-  "textCountryClick": "Klicka för mer info"
+  "textCountryClick": "Klicka för mer information"
 }

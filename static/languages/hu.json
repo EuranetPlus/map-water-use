@@ -1,13 +1,13 @@
 {
   "heading": "Vízfogyasztás az EU-ban 2020-ban",
-  "subheading": "A teljes édes felszíni vízhasználat az EU országaiban millió köbméterben mérve",
-  "legend1": "Nincs elérhető adat",
+  "subheading": "Az EU országainak teljes édesvíz-felhasználása millió köbméterben mérve",
+  "legend1": "Nincsenek elérhető adatok",
   "tooltip1": "millió köbméter",
   "textSourceDescription": "Forrás",
   "textSource": "Eurostat",
-  "textNoteDescription": "jegyzet",
-  "textNote": "A legfrissebb elérhető adatok Németországról, Magyarországról és Portugáliáról 2017-ből származnak. A legfrissebb elérhető adatok Belgiumról és Németországról 2018-ból származnak.",
+  "textNoteDescription": "Jegyzet",
+  "textNote": "Németország, Magyarország és Portugália legfrissebb elérhető adatai 2017-ből származnak. Belgium és Németország legfrissebb elérhető adatai 2018-ból származnak.",
   "textDataAccess": "Hozzáférés az adatokhoz",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ten00006/default/table?lang=en",
-  "textCountryClick": "További információért kattintson"
+  "textCountryClick": "Kattintson a további információkért"
 }

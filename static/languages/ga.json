@@ -1,13 +1,13 @@
 {
   "heading": "Tomhaltas uisce san AE in 2020",
-  "subheading": "Tomhaistear úsáid iomlán uisce dromchla úr i dtíortha an AE i milliún méadar ciúbach",
+  "subheading": "Úsáid iomlán uisce dromchla úr i dtíortha an AE tomhaiste i milliún méadar ciúbach",
   "legend1": "Níl aon sonraí ar fáil",
   "tooltip1": "milliún méadar ciúbach",
   "textSourceDescription": "Foinse",
   "textSource": "Eurostat",
   "textNoteDescription": "Nóta",
-  "textNote": "Tá na sonraí is déanaí atá ar fáil don Ghearmáin, don Ungáir agus don Phortaingéil ó 2017. Tá na sonraí is déanaí atá ar fáil don Bheilg agus don Ghearmáin ó 2018.",
-  "textDataAccess": "Faigh rochtain ar na sonraí",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ten00006/default/table?lang=ga",
+  "textNote": "Is ón mbliain 2017 atá na sonraí is déanaí atá ar fáil don Ghearmáin, don Ungáir agus don Phortaingéil. Is ón mbliain 2018 atá na sonraí is déanaí atá ar fáil don Bheilg agus don Ghearmáin.",
+  "textDataAccess": "Rochtain ar na sonraí",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ten00006/default/table?lang=en",
   "textCountryClick": "Cliceáil le haghaidh tuilleadh eolais"
 }

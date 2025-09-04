@@ -1,13 +1,13 @@
 {
   "heading": "Spotřeba vody v EU v roce 2020",
   "subheading": "Celková spotřeba sladké povrchové vody v zemích EU měřená v milionech metrů krychlových",
-  "legend1": "Nejsou k dispozici žádné údaje",
-  "tooltip1": "milionů metrů krychlových",
+  "legend1": "Nejsou k dispozici žádná data",
+  "tooltip1": "milionů krychlových metrů",
   "textSourceDescription": "Zdroj",
   "textSource": "Eurostat",
   "textNoteDescription": "Poznámka",
-  "textNote": "Poslední dostupné údaje pro Německo, Maďarsko a Portugalsko jsou z roku 2017. Poslední dostupné údaje pro Belgii a Německo jsou z roku 2018.",
+  "textNote": "Nejnovější dostupná data pro Německo, Maďarsko a Portugalsko jsou z roku 2017. Nejnovější dostupná data pro Belgii a Německo jsou z roku 2018.",
   "textDataAccess": "Přístup k datům",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ten00006/default/table?lang=cs",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ten00006/default/table?lang=en",
   "textCountryClick": "Klikněte pro více informací"
 }

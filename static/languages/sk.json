@@ -1,13 +1,13 @@
 {
   "heading": "Spotreba vody v EÚ v roku 2020",
-  "subheading": "Celková spotreba sladkej povrchovej vody v krajinách EÚ meraná v miliónoch metrov kubických",
+  "subheading": "Celková spotreba sladkej povrchovej vody v krajinách EÚ meraná v miliónoch kubických metrov",
   "legend1": "Nie sú k dispozícii žiadne údaje",
-  "tooltip1": "miliónov kubických metrov",
+  "tooltip1": "milión kubických metrov",
   "textSourceDescription": "Zdroj",
   "textSource": "Eurostat",
   "textNoteDescription": "Poznámka",
   "textNote": "Najnovšie dostupné údaje pre Nemecko, Maďarsko a Portugalsko sú z roku 2017. Najnovšie dostupné údaje pre Belgicko a Nemecko sú z roku 2018.",
   "textDataAccess": "Prístup k údajom",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ten00006/default/table?lang=sk",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ten00006/default/table?lang=en",
   "textCountryClick": "Kliknite pre viac informácií"
 }

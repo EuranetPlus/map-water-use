@@ -1,12 +1,12 @@
 {
-  "heading": "Veetarbimine EL-is 2020. aastal",
-  "subheading": "Mage pinnavee kogukasutus ELi riikides mõõdetuna miljonites kuupmeetrites",
-  "legend1": "Andmed puuduvad",
+  "heading": "Veetarbimine ELis 2020. aastal",
+  "subheading": "Mageda pinnavee kogukasutus ELi riikides, mõõdetuna miljonites kuupmeetrites",
+  "legend1": "Andmed pole saadaval",
   "tooltip1": "miljonit kuupmeetrit",
   "textSourceDescription": "Allikas",
   "textSource": "Eurostat",
-  "textNoteDescription": "Märge",
-  "textNote": "Viimased saadaolevad andmed Saksamaa, Ungari ja Portugali kohta pärinevad 2017. aastast. Belgia ja Saksamaa kohta pärinevad viimased saadaolevad andmed 2018. aastast.",
+  "textNoteDescription": "Märkus",
+  "textNote": "Saksamaa, Ungari ja Portugali kohta on viimased kättesaadavad andmed aastast 2017. Belgia ja Saksamaa kohta on viimased kättesaadavad andmed aastast 2018.",
   "textDataAccess": "Juurdepääs andmetele",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ten00006/default/table?lang=en",
   "textCountryClick": "Lisateabe saamiseks klõpsake"

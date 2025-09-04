@@ -1,13 +1,13 @@
 {
-  "heading": "Vandens suvartojimas ES 2020 m",
-  "subheading": "Bendras gėlo paviršinio vandens suvartojimas ES šalyse išmatuotas milijonais kubinių metrų",
+  "heading": "Vandens suvartojimas ES 2020 m.",
+  "subheading": "Bendras gėlo paviršinio vandens sunaudojimas ES šalyse, matuojamas milijonais kubinių metrų",
   "legend1": "Nėra duomenų",
-  "tooltip1": "milijonų kubinių metrų",
+  "tooltip1": "milijonas kubinių metrų",
   "textSourceDescription": "Šaltinis",
   "textSource": "Eurostatas",
   "textNoteDescription": "Pastaba",
-  "textNote": "Naujausi galimi Vokietijos, Vengrijos ir Portugalijos duomenys yra 2017 m. Naujausi galimi Belgijos ir Vokietijos duomenys yra 2018 m.",
-  "textDataAccess": "Pasiekite duomenis",
+  "textNote": "Naujausi turimi Vokietijos, Vengrijos ir Portugalijos duomenys yra iš 2017 m. Naujausi turimi Belgijos ir Vokietijos duomenys yra iš 2018 m.",
+  "textDataAccess": "Prieiga prie duomenų",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ten00006/default/table?lang=en",
   "textCountryClick": "Spustelėkite norėdami gauti daugiau informacijos"
 }

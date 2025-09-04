@@ -1,13 +1,13 @@
 {
-  "heading": "Potrošnja vode u EU u 2020",
+  "heading": "Potrošnja vode u EU u 2020. godini",
   "subheading": "Ukupna potrošnja slatke površinske vode u zemljama EU mjerena u milijunima kubičnih metara",
   "legend1": "Nema dostupnih podataka",
   "tooltip1": "milijuna kubičnih metara",
   "textSourceDescription": "Izvor",
   "textSource": "Eurostat",
   "textNoteDescription": "Bilješka",
-  "textNote": "Zadnji dostupni podaci za Njemačku, Mađarsku i Portugal su iz 2017. Zadnji dostupni podaci za Belgiju i Njemačku su iz 2018.",
-  "textDataAccess": "Pristupite podacima",
+  "textNote": "Najnoviji dostupni podaci za Njemačku, Mađarsku i Portugal su iz 2017. Najnoviji dostupni podaci za Belgiju i Njemačku su iz 2018.",
+  "textDataAccess": "Pristup podacima",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ten00006/default/table?lang=en",
   "textCountryClick": "Kliknite za više informacija"
 }

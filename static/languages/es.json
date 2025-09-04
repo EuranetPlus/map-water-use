@@ -1,13 +1,13 @@
 {
   "heading": "Consumo de agua en la UE en 2020",
-  "subheading": "Uso total de agua dulce superficial en países de la UE medido en millones de metros cúbicos",
-  "legend1": "Datos no disponibles",
+  "subheading": "Uso total de agua dulce superficial en los países de la UE medido en millones de metros cúbicos",
+  "legend1": "No hay datos disponibles",
   "tooltip1": "millones de metros cúbicos",
   "textSourceDescription": "Fuente",
   "textSource": "Eurostat",
   "textNoteDescription": "Nota",
   "textNote": "Los últimos datos disponibles para Alemania, Hungría y Portugal son de 2017. Los últimos datos disponibles para Bélgica y Alemania son de 2018.",
-  "textDataAccess": "Accede a los datos",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ten00006/default/table?lang=en",
-  "textCountryClick": "Haga clic para obtener más información"
+  "textDataAccess": "Acceder a los datos",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ten00006/default/table?lang=es",
+  "textCountryClick": "Haga clic para más información"
 }
