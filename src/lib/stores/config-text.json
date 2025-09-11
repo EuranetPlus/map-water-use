@@ -1,12 +1,12 @@
 {
-  "heading": "Water consumption in the EU in 2020",
+  "heading": "Water consumption in the EU in 2023",
   "subheading": "Total fresh surface water use in countries of the EU measured in million cubic metres ",
   "legend1": "No data available",
   "tooltip1": "million cubic metres",
   "textSourceDescription": "Source",
   "textSource": "Eurostat",
   "textNoteDescription": "Note",
-  "textNote": "Latest available data for Germany, Hungary and Portugal is from 2017. Latest available data for Belgium and Germany is from 2018.",
+  "textNote": "Latest available data for Bulgaria, Germany, France, Netherlands, from 2022. Latest available data for Belgium from 2021, Spain 2020.",
   "textDataAccess": "Access the data",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ten00006/default/table?lang=en",
   "textCountryClick": "Click for more info"
