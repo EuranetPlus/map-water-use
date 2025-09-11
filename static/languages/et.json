@@ -1,12 +1,12 @@
 {
-  "heading": "Veetarbimine ELis 2020. aastal",
-  "subheading": "Mageda pinnavee kogukasutus ELi riikides, mõõdetuna miljonites kuupmeetrites",
+  "heading": "Veetarbimine ELis 2023. aastal",
+  "subheading": "ELi riikide mageda pinnavee kogukasutus, mõõdetuna miljonites kuupmeetrites",
   "legend1": "Andmed pole saadaval",
   "tooltip1": "miljonit kuupmeetrit",
   "textSourceDescription": "Allikas",
   "textSource": "Eurostat",
   "textNoteDescription": "Märkus",
-  "textNote": "Saksamaa, Ungari ja Portugali kohta on viimased kättesaadavad andmed aastast 2017. Belgia ja Saksamaa kohta on viimased kättesaadavad andmed aastast 2018.",
+  "textNote": "Bulgaaria, Saksamaa, Prantsusmaa ja Madalmaade kohta on uusimad kättesaadavad andmed aastast 2022. Belgia kohta on uusimad kättesaadavad andmed aastast 2021 ja Hispaania kohta 2020.",
   "textDataAccess": "Juurdepääs andmetele",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ten00006/default/table?lang=en",
   "textCountryClick": "Lisateabe saamiseks klõpsake"

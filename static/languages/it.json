@@ -1,12 +1,12 @@
 {
-  "heading": "Consumo di acqua nell'UE nel 2020",
+  "heading": "Consumo di acqua nell'UE nel 2023",
   "subheading": "Utilizzo totale di acqua dolce superficiale nei paesi dell'UE misurato in milioni di metri cubi",
   "legend1": "Nessun dato disponibile",
   "tooltip1": "milioni di metri cubi",
   "textSourceDescription": "Fonte",
   "textSource": "Eurostat",
   "textNoteDescription": "Nota",
-  "textNote": "Gli ultimi dati disponibili per Germania, Ungheria e Portogallo risalgono al 2017. Gli ultimi dati disponibili per Belgio e Germania risalgono al 2018.",
+  "textNote": "Ultimi dati disponibili per Bulgaria, Germania, Francia, Paesi Bassi, dal 2022. Ultimi dati disponibili per Belgio dal 2021, Spagna dal 2020.",
   "textDataAccess": "Accedi ai dati",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ten00006/default/table?lang=it",
   "textCountryClick": "Clicca per maggiori informazioni"

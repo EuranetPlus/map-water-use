@@ -1,12 +1,12 @@
 {
-  "heading": "Vandforbrug i EU i 2020",
+  "heading": "Vandforbrug i EU i 2023",
   "subheading": "Samlet forbrug af fersk overfladevand i EU-landene målt i millioner kubikmeter",
   "legend1": "Ingen data tilgængelige",
   "tooltip1": "millioner kubikmeter",
   "textSourceDescription": "Kilde",
   "textSource": "Eurostat",
   "textNoteDescription": "Note",
-  "textNote": "De senest tilgængelige data for Tyskland, Ungarn og Portugal er fra 2017. De senest tilgængelige data for Belgien og Tyskland er fra 2018.",
+  "textNote": "Seneste tilgængelige data for Bulgarien, Tyskland, Frankrig, Holland, fra 2022. Seneste tilgængelige data for Belgien fra 2021, Spanien 2020.",
   "textDataAccess": "Få adgang til dataene",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ten00006/default/table?lang=en",
   "textCountryClick": "Klik for mere information"

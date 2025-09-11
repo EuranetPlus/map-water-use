@@ -1,12 +1,12 @@
 {
-  "heading": "Vízfogyasztás az EU-ban 2020-ban",
+  "heading": "Vízfogyasztás az EU-ban 2023-ban",
   "subheading": "Az EU országainak teljes édesvíz-felhasználása millió köbméterben mérve",
   "legend1": "Nincsenek elérhető adatok",
   "tooltip1": "millió köbméter",
   "textSourceDescription": "Forrás",
   "textSource": "Eurostat",
   "textNoteDescription": "Jegyzet",
-  "textNote": "Németország, Magyarország és Portugália legfrissebb elérhető adatai 2017-ből származnak. Belgium és Németország legfrissebb elérhető adatai 2018-ból származnak.",
+  "textNote": "Bulgária, Németország, Franciaország és Hollandia legfrissebb elérhető adatai 2022-ből. Belgium legfrissebb elérhető adatai 2021-ből, Spanyolországé 2020-ból.",
   "textDataAccess": "Hozzáférés az adatokhoz",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ten00006/default/table?lang=en",
   "textCountryClick": "Kattintson a további információkért"
