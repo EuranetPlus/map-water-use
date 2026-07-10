@@ -1,13 +1,13 @@
 {
   "heading": "Quanta acqua consumano gli Stati membri dell'UE?",
-  "subheading": "Nel 2023, Spagna e Francia hanno registrato il consumo più elevato di acqua dolce superficiale, misurato in milioni di metri cubi.",
+  "subheading": "Nel 2023, Spagna e Francia hanno registrato il più alto consumo di acqua dolce superficiale, misurato in milioni di metri cubi.",
   "legend1": "Nessun dato disponibile",
   "tooltip1": "milioni di metri cubi",
   "textSourceDescription": "Fonte",
   "textSource": "Eurostat",
   "textNoteDescription": "Nota",
-  "textNote": "Ultimi dati disponibili per Bulgaria, Germania, Francia, Paesi Bassi, dal 2022. Ultimi dati disponibili per Belgio dal 2021, Spagna dal 2020.",
-  "textDataAccess": "Accedi ai dati",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ten00006/default/table?lang=it",
+  "textNote": "Dati più recenti disponibili per Bulgaria, Germania, Francia e Paesi Bassi, relativi al 2022. Dati più recenti disponibili per il Belgio, relativi al 2021, e per la Spagna, relativi al 2020.",
+  "textDataAccess": "Accedere ai dati",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ten00006/default/table?lang=en",
   "textCountryClick": "Clicca per maggiori informazioni"
 }

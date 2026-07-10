@@ -1,13 +1,13 @@
 {
   "heading": "Hoeveel water verbruiken de EU-lidstaten?",
-  "subheading": "In 2023 hadden Spanje en Frankrijk het hoogste verbruik van zoet oppervlaktewater, gemeten in miljoen kubieke meter.",
+  "subheading": "In 2023 hadden Spanje en Frankrijk het hoogste verbruik van zoet oppervlaktewater, gemeten in miljoenen kubieke meters.",
   "legend1": "Geen gegevens beschikbaar",
   "tooltip1": "miljoen kubieke meter",
   "textSourceDescription": "Bron",
   "textSource": "Eurostat",
   "textNoteDescription": "Opmerking",
-  "textNote": "Laatste beschikbare gegevens voor Bulgarije, Duitsland, Frankrijk en Nederland, van 2022. Laatste beschikbare gegevens voor België van 2021, Spanje van 2020.",
+  "textNote": "De meest recente beschikbare gegevens voor Bulgarije, Duitsland, Frankrijk en Nederland zijn van 2022. De meest recente beschikbare gegevens voor België zijn van 2021 en voor Spanje van 2020.",
   "textDataAccess": "Toegang tot de gegevens",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ten00006/default/table?lang=en",
-  "textCountryClick": "Klik voor meer informatie"
+  "textCountryClick": "Klik hier voor meer informatie"
 }

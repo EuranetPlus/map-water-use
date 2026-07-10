@@ -1,13 +1,13 @@
 {
-  "heading": "Quelle quantité d’eau les États membres de l’UE consomment-ils ?",
-  "subheading": "En 2023, l’Espagne et la France ont enregistré la plus forte consommation d’eau douce de surface, mesurée en millions de mètres cubes.",
+  "heading": "Quelle quantité d'eau les États membres de l'UE consomment-ils ?",
+  "subheading": "En 2023, l'Espagne et la France affichaient la plus forte consommation d'eau douce de surface, mesurée en millions de mètres cubes.",
   "legend1": "Aucune donnée disponible",
   "tooltip1": "millions de mètres cubes",
   "textSourceDescription": "Source",
   "textSource": "Eurostat",
   "textNoteDescription": "Note",
-  "textNote": "Dernières données disponibles pour la Bulgarie, l'Allemagne, la France, les Pays-Bas, à partir de 2022. Dernières données disponibles pour la Belgique à partir de 2021, l'Espagne 2020.",
+  "textNote": "Dernières données disponibles pour la Bulgarie, l'Allemagne, la France et les Pays-Bas, datant de 2022. Dernières données disponibles pour la Belgique, datant de 2021, et pour l'Espagne, de 2020.",
   "textDataAccess": "Accéder aux données",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ten00006/default/table?lang=fr",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ten00006/default/table?lang=en",
   "textCountryClick": "Cliquez pour plus d'informations"
 }

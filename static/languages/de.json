@@ -1,13 +1,13 @@
 {
-  "heading": "Wie viel Wasser verbrauchen die EU-Mitgliedsstaaten?",
-  "subheading": "Im Jahr 2023 hatten Spanien und Frankreich den höchsten Verbrauch an Süßwasser aus Oberflächengewässern, gemessen in Millionen Kubikmetern.",
+  "heading": "Wie viel Wasser verbrauchen die EU-Mitgliedstaaten?",
+  "subheading": "Im Jahr 2023 wiesen Spanien und Frankreich den höchsten Verbrauch an frischem Oberflächenwasser auf, gemessen in Millionen Kubikmetern.",
   "legend1": "Keine Daten verfügbar",
   "tooltip1": "Millionen Kubikmeter",
   "textSourceDescription": "Quelle",
   "textSource": "Eurostat",
   "textNoteDescription": "Notiz",
-  "textNote": "Neueste verfügbare Daten für Bulgarien, Deutschland, Frankreich, Niederlande aus dem Jahr 2022. Neueste verfügbare Daten für Belgien aus dem Jahr 2021, Spanien 2020.",
-  "textDataAccess": "Zugriff auf die Daten",
+  "textNote": "Die aktuellsten verfügbaren Daten für Bulgarien, Deutschland, Frankreich und die Niederlande stammen aus dem Jahr 2022. Die aktuellsten verfügbaren Daten für Belgien stammen aus dem Jahr 2021, für Spanien aus dem Jahr 2020.",
+  "textDataAccess": "Greifen Sie auf die Daten zu.",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ten00006/default/table?lang=en",
-  "textCountryClick": "Klicken Sie hier für weitere Informationen"
+  "textCountryClick": "Klicken Sie hier für weitere Informationen."
 }
